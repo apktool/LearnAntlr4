@@ -17,6 +17,7 @@
     <modules>
         <module>antlr4-demo</module>
         <module>altlr4-calculator</module>
+        <module>antlr4-tsv</module>
     </modules>
 
     <dependencies>
